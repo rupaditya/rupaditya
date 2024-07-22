@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @rupaditya
-- 👀 I’m interested in blockchain and ML
-- 🌱 I’m currently learning japanese
+- 👀 I’m interested in blockchain and Game theory
+- 🌱 I’m currently learning Japanese
 - 💞️ I’m looking to collaborate on nothing so far
 - 📫 How to reach me rupadityaadireddy@gmail.com 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am studying in IIT delhi.
+- ⚡ Fun fact: I am studying in IIT Delhi.
 
 <!---
 rupaditya/rupaditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
