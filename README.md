@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rupaditya
-- 👀 I’m interested in blockchain and Game theory
+- 👀 I’m interested in blockchain and Python
 - 🌱 I’m currently learning Japanese
 - 💞️ I’m looking to collaborate on nothing so far
 - 📫 How to reach me rupadityaadireddy@gmail.com 
