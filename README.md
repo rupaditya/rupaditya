@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rupaditya
 - 👀 I’m interested in Python and ML
 - 🌱 I’m currently learning Japanese
-- 💞️ I’m looking to collaborate on Machine Learning in Finance and Bio-Medical Engineering
+- 💞️ I’m looking to collaborate on Machine Learning in Finance and Strategy and operations
 - 📫 How to reach me rupadityaadireddy@gmail.com 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am studying in IIT Delhi.
